@@ -10,6 +10,7 @@ This repo demonstrates the functionality of our mock app, which uses a webcam an
 - Save detected items to a file
 - Generate a recipe using a local AI model
 - Save recipes automatically
+- Quizes for Students
 
 ---
 
