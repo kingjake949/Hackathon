@@ -1,7 +1,7 @@
-# Hackathon
-# Smart Chef Camera 🍳📸
+# OCSEF Hackathon Team: Firewolves 🔥🐺
+# Scrap Savr
 
-A project that uses a webcam and AI to detect food items, save them, and generate recipes based on detected foods using a local chatbot (Ollama + Llama3 model).
+This repo demonstrates the functionality of our mock app, which uses a webcam and AI to detect food items, save them, and generate recipes based on detected foods using a local chatbot (Ollama + Llama3 model).
 
 ---
 
